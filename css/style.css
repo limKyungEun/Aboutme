@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{background-image: url(../images/파란배경.jpg);
+			}
+		
+		#wrap{
+			
+		
+			width: 1400px;
+			
+			margin: 100px auto;
+			
+			
+			
+		}
+		
+		.con1{display: flex;}
+		.con2{display: flex;flex-wrap:wrap}
+		
+		.box{
+			width: 15%;
+			height: 120px;
+			position: relative;
+			top: 2px;
+			border: 3px solid #A0A0FF;
+			border-top: none;
+			border-left: none;
+			}
+		
+		.header{
+			width:79%;
+			height: 120px;
+			color: #ff7979;
+			font-weight: 800;
+			font-size: 60px;
+			text-indent: 2em;
+			line-height: 120px;
+			
+			}
+		
