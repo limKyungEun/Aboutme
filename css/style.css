@@ -127,3 +127,10 @@ body{background-image: url(../images/파란배경.jpg);
 						font-size: 20px;
 						font-weight: 600;
 					}
+					.footer{
+						position: relative;
+						bottom: 1400px;
+						left: 210px;
+						color: #90AFFF;	
+						font-size: 20px;
+					}
